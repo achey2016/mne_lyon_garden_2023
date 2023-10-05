@@ -1,5 +1,3 @@
+bids_data
 .ipynb_checkpoints
-.DS_Store
-annot.csv
-fwhm.ipynb
-random-matrix.*
+.Rproj.user
