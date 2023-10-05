@@ -22,7 +22,7 @@ Authors of the material:
 Please make sure you do the following steps before the first hands-on session:
 
 1. If your username/login has spaces and/or weird symbols, **YOU MUST** create a new user with a simpler name (no spaces, no symbols). Login with such a user name.
-2. You will need to [download this directory](https://github.com/crnl-lab/LyonCutting_MNE_2023/archive/refs/heads/main.zip) of scripts.
+2. You will need to [download this directory](https://github.com/crnl-lab/mne_lyon_garden_2023/archive/refs/heads/main.zip) of scripts.
 3. You will need to have an up-to-date python environment (3.11) and the latest version of MNE-Python (>=1.5.0) installed on your machine.
 
    If you're not familiar with python, we recommand to dowload Anaconda https://www.anaconda.com/download.
