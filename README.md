@@ -21,7 +21,7 @@ Authors of the material:
 
 Please make sure you do the following steps before the first hands-on session:
 
-1. If your username/login has spaces and/or weird symbols, **YOU MUST** create a new user with a simpler name (no spaces, no symbols). Login with such a user name.
+1. If the username/login on your computer has spaces and/or weird symbols, **YOU MUST** create a new user with a simpler name (no spaces, no symbols). Login with such a user name.
 2. You will need to [download this directory](https://github.com/crnl-lab/mne_lyon_garden_2023/archive/refs/heads/main.zip) of scripts.
 3. You will need to have an up-to-date python environment (3.11) and the latest version of MNE-Python (>=1.5.0) installed on your machine.
 
@@ -41,7 +41,7 @@ pip install jupyter
 pip install mne-bids
 pip install openneuro-py
 ```
-4. You will need to download the data. Use this link [https://filesender.renater.fr/?s=download&token=79779c5e-d628-449a-83c7-686d1690977f](https://filesender.renater.fr/?s=download&token=79779c5e-d628-449a-83c7-686d1690977f). Place and unzip the data inside the script.
+4. You will need to download the data. Use this link [https://filesender.renater.fr/?s=download&token=666a3de4-fcc6-4ec7-8a3e-bf4cba81101f](https://filesender.renater.fr/?s=download&token=666a3de4-fcc6-4ec7-8a3e-bf4cba81101f). Place and unzip the data inside the scripts folder.
 5. To check your installation, please look at the (very short!) notebook [Check your installation](0-Installation_check.ipynb). See below if you need a reminder how to start it.
 6. For a full HD experience, we recommand that you read this [Short task explanation](Short_task_explanation.pdf).
 7. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
