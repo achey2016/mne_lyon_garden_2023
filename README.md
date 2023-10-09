@@ -21,7 +21,7 @@ Authors of the material:
 
 Please make sure you do the following steps before the first hands-on session:
 
-1. If the username/login on your computer has spaces and/or weird symbols, **YOU MUST** create a new user with a simpler name (no spaces, no symbols). Login with such a user name.
+1. If the username/login of your computer account has spaces and/or weird symbols, **YOU MUST** create a new user with a simpler name (no spaces, no symbols). Login with such a user name.
 2. You will need to [download this directory](https://github.com/crnl-lab/mne_lyon_garden_2023/archive/refs/heads/main.zip) of scripts.
 3. You will need to have an up-to-date python environment (3.11) and the latest version of MNE-Python (>=1.5.0) installed on your machine.
 
