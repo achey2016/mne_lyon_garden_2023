@@ -41,7 +41,7 @@ pip install jupyter
 pip install mne-bids
 pip install openneuro-py
 ```
-4. You will need to download the data. Use this link [https://filesender.renater.fr/?s=download&token=8aea9fc1-7057-48c9-ae2b-9bb8475fa10e](https://filesender.renater.fr/?s=download&token=8aea9fc1-7057-48c9-ae2b-9bb8475fa10e). Place and unzip the data inside the scripts folder.
+4. You will need to download the data. Use the [download notebook](0a-Download_data.ipynb) for this. See below if you need a reminder how to start a Jupyter notebook.
 5. To check your installation, please look at the (very short!) notebook [Check your installation](0-Installation_check.ipynb). See below if you need a reminder how to start it.
 6. For a full HD experience, we recommand that you read this [Short task explanation](Short_task_explanation.pdf).
 7. If you are not familiar with Python, we invite you to take the time to work on these tutorials:

@@ -1,0 +1,309 @@
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status
+USPT001	TRIG	V	0.0	600.0	Trigger	1200.0	good
+SCLK01	MISC	V	0.0	600.0	System clock	1200.0	good
+BG1	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BG2	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BG3	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BP1	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BP2	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BP3	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BR1	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BR2	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+BR3	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good
+G11	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+G12	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+G13	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+G22	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+G23	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P11	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P12	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P22	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+P23	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q11	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q12	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q13	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q22	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+Q23	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R11	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R12	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R13	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R22	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+R23	MEGREFGRADAXIAL	T	0.0	600.0	Axial Gradiometer Reference	1200.0	good
+MLC11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC13	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC14	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC15	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC16	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC17	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC24	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC25	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC54	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC55	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC61	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC62	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLC63	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF13	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF14	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF24	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF33	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF34	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF35	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF43	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF44	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF45	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF46	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF54	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF55	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF56	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF61	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF62	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF63	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF64	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF65	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF66	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLF67	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO13	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO14	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO24	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO33	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO34	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO43	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO44	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLO53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP33	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP34	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP35	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP43	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP44	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP45	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP54	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP55	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP56	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLP57	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT13	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT14	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT15	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT16	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT24	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT25	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT26	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT27	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT33	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT34	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT35	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT36	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT37	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT43	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT44	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT45	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT46	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT47	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT54	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT55	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT56	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MLT57	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC13	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC14	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC15	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC16	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC17	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC24	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC25	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC54	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC55	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC61	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC62	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRC63	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF13	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF14	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF24	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF25	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF33	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF34	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF35	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF44	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF45	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF46	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF54	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF55	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF56	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF61	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF62	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF63	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF64	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF65	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF66	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRF67	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO14	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO24	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO33	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO34	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO43	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO44	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRO53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP33	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP34	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP35	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP43	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP44	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP45	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP54	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP55	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP56	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRP57	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT11	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT12	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT13	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT14	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT15	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT16	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT21	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT22	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT23	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT24	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT25	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT26	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT27	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT31	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT32	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT33	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT34	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT35	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT36	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT37	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT41	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT42	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT43	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT44	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT45	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT46	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT47	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT51	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT52	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT53	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT54	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT55	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT56	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MRT57	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZC01	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZC02	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZC03	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZC04	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZF01	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZF02	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZF03	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZO01	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZO02	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZO03	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+MZP01	MEGGRADAXIAL	T	0.0	600.0	Sensor 1st-order gradiometer channel located in head shell	1200.0	good
+UADC005	MISC	V	0.0	600.0	Button 1 recording	1200.0	good
+UADC007	MISC	V	0.0	600.0	Button 2 recording	1200.0	good
+UADC009	EYEGAZE	V	0.0	600.0	Eye Tracker Gaze X	1200.0	good
+UADC010	EYEGAZE	V	0.0	600.0	Eye Tracker Gaze Y	1200.0	good
+UADC013	PUPIL	V	0.0	600.0	Eye Tracker Pupil	1200.0	good
+UADC016	MISC	V	0.0	600.0	Miscellaneous	1200.0	good
